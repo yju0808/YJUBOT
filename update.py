@@ -1,6 +1,5 @@
 # -*- encoding: utf-8 -*-
 import json
-import bs4, urllib.request
 import time
 import requests
 import re
